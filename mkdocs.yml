@@ -2,7 +2,7 @@ site_name: Cloud Documentation Guide
 theme:
   name: 'material'
   custom_dir: 'material'
-  palette:
+  palette: 
     primary: 'orange'
     accent: 'orange'
     favicon: 'images/favicon.ico'
