@@ -5,8 +5,7 @@ theme:
   palette:
     primary: 'orange'
     accent: 'orange'
-  
-  favicon: 'images/favicon.ico'
+    favicon: 'images/favicon.ico'
   logo: 'images/favicon.ico'
 markdown_extensions:
   - pymdownx.arithmatex
