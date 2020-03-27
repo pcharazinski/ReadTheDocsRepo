@@ -1,6 +1,7 @@
 site_name: Cloud Documentation Guide
 theme:
   name: 'material'
+  custom_dir: 'material'
   palette:
     primary: 'orange'
     accent: 'orange'
@@ -26,3 +27,4 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date-localized
+    
