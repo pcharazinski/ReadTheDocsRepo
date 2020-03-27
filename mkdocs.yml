@@ -1,7 +1,7 @@
 site_name: Cloud Documentation Guide
 theme:
   name: 'readthedocs'
-  custom_dir: 'material'
+  
   palette:
     primary: 'orange'
     accent: 'orange'
