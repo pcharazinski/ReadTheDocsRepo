@@ -6,7 +6,7 @@ theme:
     primary: 'orange'
     accent: 'orange'
   
-  favicon: 'assets/images/favicon.ico'
+  favicon: 'images/favicon.ico'
 markdown_extensions:
   - pymdownx.arithmatex
   - pymdownx.betterem:
