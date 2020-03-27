@@ -1,11 +1,12 @@
 site_name: Cloud Documentation Guide
 theme:
   name: 'material'
+  custom_dir: 'material'
   palette:
     primary: 'orange'
     accent: 'orange'
-  
-  favicon: 'assets/images/favicon.ico'
+    favicon: 'images/favicon.ico'
+  logo: 'images/favicon.ico'
 markdown_extensions:
   - pymdownx.arithmatex
   - pymdownx.betterem:
@@ -23,3 +24,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+plugins:
+  - search
+  - git-revision-date-localized
+    
