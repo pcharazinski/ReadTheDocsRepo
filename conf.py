@@ -1,3 +1,4 @@
+html_theme = "sphinx_rtd_theme"
 html_theme_options = {
     'canonical_url': '',
     'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
