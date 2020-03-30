@@ -1,5 +1,5 @@
 site_name: Cloud Documentation Guide
-theme: cluster
+theme: readthedocs
 
  
 plugins:
