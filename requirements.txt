@@ -19,7 +19,7 @@ mkdocs-material==4.6.3
 mkdocs-versioning==0.2.0
 nltk==3.4.5
 PyGithub==1.47
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pymdown-extensions==6.3
 pytz==2019.3
