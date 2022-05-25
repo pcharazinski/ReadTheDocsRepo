@@ -20,7 +20,7 @@ mkdocs-versioning==0.2.0
 nltk==3.4.5
 PyGithub==1.47
 Pygments==2.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymdown-extensions==6.3
 pytz==2019.3
 PyYAML==5.3.1
